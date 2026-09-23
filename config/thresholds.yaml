@@ -1,0 +1,6 @@
+# Per-metric minimum passing scores for the CI quality gate.
+# The good sample case must clear every threshold; the bad one must fail them.
+faithfulness: 0.7
+answer_relevancy: 0.7
+hallucination: 0.7
+qa_root_cause_geval: 0.5
