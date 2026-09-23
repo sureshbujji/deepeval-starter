@@ -1,0 +1,5 @@
+# Pinned 2026-09-22. deepeval 4.2.5 is the newest release that installs
+# cleanly on Python 3.12 (no dependency conflicts observed).
+deepeval==4.2.5
+pytest==9.1.1
+pyyaml==6.0.3
